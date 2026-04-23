@@ -45,9 +45,13 @@ Weaponry: Custom swords using Texture Baking from nodes to ensure high performan
 <img width="738" height="711" alt="image" src="https://github.com/user-attachments/assets/bc4b8c8d-c155-49da-852e-a1cbc46c91ae" />
 <img width="228" height="293" alt="image" src="https://github.com/user-attachments/assets/583e9837-a693-4135-b57e-f7179c4376c2" />
 
-<img width="214" height="758" alt="Swords3" src="https://github.com/user-attachments/assets/c606394c-688e-4a6e-98df-43dde70d73f0" />
-<img width="214" height="758" alt="Swords2" src="https://github.com/user-attachments/assets/ba087a10-1a64-47f6-a1a5-5133750957e1" />
-<img width="214" height="758" alt="Swords" src="https://github.com/user-attachments/assets/214d3959-ef7c-4e75-818b-779252344876" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c606394c-688e-4a6e-98df-43dde70d73f0" width="200" alt="Sword 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/ba087a10-1a64-47f6-a1a5-5133750957e1" width="200" alt="Sword 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/214d3959-ef7c-4e75-818b-779252344876" width="200" alt="Sword 3"></td>
+  </tr>
+</table>
 
 
 ## User Interface
