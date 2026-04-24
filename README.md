@@ -42,8 +42,8 @@ Persistence: Includes basic logic for item collection and state management.
 All 3D models were created from scratch in Blender:
 Character Models: A fully sculpted skeleton (including high-detail skull sculpting).
 Weaponry: Custom swords using Texture Baking from nodes to ensure high performance within Unity.
-<img width="738" height="711" alt="image" src="https://github.com/user-attachments/assets/bc4b8c8d-c155-49da-852e-a1cbc46c91ae" />
-<img width="228" height="293" alt="image" src="https://github.com/user-attachments/assets/583e9837-a693-4135-b57e-f7179c4376c2" />
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/bc4b8c8d-c155-49da-852e-a1cbc46c91ae" />
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/583e9837-a693-4135-b57e-f7179c4376c2" />
 
 <table>
   <tr>
