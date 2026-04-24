@@ -75,7 +75,8 @@ To maintain a professional workflow and scalability, the project follows a stric
 
 # 📄 Documentation
 The full technical documentation (in Czech), detailing the development process, algorithms, and design choices, is available here:
-[📄 View Full Technical Documentation (PDF)](./RPG Hra Tales of Alden.pdf)
+
+👉 **[Download Full Documentation (Czech PDF)](./Documentation.pdf)**
 
 # License
 Licensed under MIT license (LICENSE-MIT or https://opensource.org/licenses/MIT)
