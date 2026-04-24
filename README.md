@@ -42,9 +42,12 @@ Persistence: Includes basic logic for item collection and state management.
 All 3D models were created from scratch in Blender:
 Character Models: A fully sculpted skeleton (including high-detail skull sculpting).
 Weaponry: Custom swords using Texture Baking from nodes to ensure high performance within Unity.
-<img width="738" alt="image" src="https://github.com/user-attachments/assets/bc4b8c8d-c155-49da-852e-a1cbc46c91ae" />
-<img width="228" alt="image" src="https://github.com/user-attachments/assets/583e9837-a693-4135-b57e-f7179c4376c2" />
-
+<table>
+  <tr>
+    <td><img width="738" alt="image" src="https://github.com/user-attachments/assets/bc4b8c8d-c155-49da-852e-a1cbc46c91ae" /></td>
+    <td><img width="228" alt="image" src="https://github.com/user-attachments/assets/583e9837-a693-4135-b57e-f7179c4376c2" /></td>
+  </tr>
+</table>
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c606394c-688e-4a6e-98df-43dde70d73f0" width="200" alt="Sword 1"></td>
@@ -57,9 +60,12 @@ Weaponry: Custom swords using Texture Baking from nodes to ensure high performan
 ## User Interface
 Hand-Painted Assets: Using a graphic tablet, I designed original icons, buttons, and UI frames.
 UX Design: Focus on clear menus (Main Menu, Pause System, Quest Journal).
-<img width="1508" height="1382" alt="TornadoIcon" src="https://github.com/user-attachments/assets/432c994e-e703-4d3e-841a-01171541111c" />
-<img width="2000" height="2000" alt="InventoryBGfail" src="https://github.com/user-attachments/assets/364378b4-2a79-4ce8-b9dd-4c6be8162d3a" />
-
+<table>
+  <tr>
+    <td><img width="500" alt="TornadoIcon" src="https://github.com/user-attachments/assets/432c994e-e703-4d3e-841a-01171541111c" /></td>
+    <td><img width="500" alt="InventoryBGfail" src="https://github.com/user-attachments/assets/364378b4-2a79-4ce8-b9dd-4c6be8162d3a" /></td>
+  </tr>
+</table>
 # 📂 Project Structure
 To maintain a professional workflow and scalability, the project follows a strict organizational structure:
 - /Scripts: All C# logic (Player controllers, AI, UI handlers).
@@ -69,7 +75,7 @@ To maintain a professional workflow and scalability, the project follows a stric
 
 # 📄 Documentation
 The full technical documentation (in Czech), detailing the development process, algorithms, and design choices, is available here:
-👉 View Full PDF Documentation
+[📄 View Full Technical Documentation (PDF)](./RPG Hra Tales of Alden.pdf)
 
 # License
 Licensed under MIT license (LICENSE-MIT or https://opensource.org/licenses/MIT)
