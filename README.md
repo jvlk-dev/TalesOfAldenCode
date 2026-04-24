@@ -62,8 +62,8 @@ Hand-Painted Assets: Using a graphic tablet, I designed original icons, buttons,
 UX Design: Focus on clear menus (Main Menu, Pause System, Quest Journal).
 <table>
   <tr>
-    <td><img width="500" alt="TornadoIcon" src="https://github.com/user-attachments/assets/432c994e-e703-4d3e-841a-01171541111c" /></td>
-    <td><img width="500" alt="InventoryBGfail" src="https://github.com/user-attachments/assets/364378b4-2a79-4ce8-b9dd-4c6be8162d3a" /></td>
+    <td><img width="200" alt="TornadoIcon" src="https://github.com/user-attachments/assets/432c994e-e703-4d3e-841a-01171541111c" /></td>
+    <td><img width="200" alt="InventoryBGfail" src="https://github.com/user-attachments/assets/364378b4-2a79-4ce8-b9dd-4c6be8162d3a" /></td>
   </tr>
 </table>
 # 📂 Project Structure
